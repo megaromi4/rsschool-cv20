@@ -1,6 +1,8 @@
 # Resume 
 - My name is *Ryabtsev Roman* .
-
+__________
+- My phone number: *+375447434675*
+__________
 `I am a beginner front end programmer.`
 
 - ***My goal:***
